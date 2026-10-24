@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+buildpay_streamlit.db
+buildpay.db
+.streamlit/secrets.toml
